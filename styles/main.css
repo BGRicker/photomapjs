@@ -1,0 +1,15 @@
+/* CURRENTLY IN: styles/main.css */
+
+
+.goog-header {
+	text-align: center;
+}
+
+.goog-map {
+	width: 100%;
+	height: 500px;
+}
+
+.goog-img {
+	width: 100%;
+}
